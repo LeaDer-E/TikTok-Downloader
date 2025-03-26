@@ -125,7 +125,7 @@ python3 TDw.py
   Saved in the `Downloaded` folder as `0001 - <videoID>.mp4` and, if mirrored, as `0001 - Mirrored_<videoID>.mp4`.
 
 - **Channel Downloads:**  
-  Saved in `Download/<channel_username>` (or `Download/Mirrored_<channel_username>` if mirroring is enabled) with 4-digit numbering (e.g., `0005 - <videoID>.mp4`).
+  Saved in `Downloaded/<channel_username>` (or `Download/Mirrored_<channel_username>` if mirroring is enabled) with 4-digit numbering (e.g., `0005 - <videoID>.mp4`).
 
 ## License
 
