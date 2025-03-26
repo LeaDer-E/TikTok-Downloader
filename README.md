@@ -86,11 +86,13 @@ python3 TDw.py
 
 - **Quality Selection:**  
   Choose the desired quality from the menu. Options include:
+  ```
   1. High (bestvideo+bestaudio/best)
   2. Medium (best[height<=720])
   3. Low (worst)
   4. List available formats and choose custom  
   Each prompt displays an option **q. Exit from code**.
+  ```
 
 - **Available Video Formats:**  
   When selecting custom formats, the following options are available:
