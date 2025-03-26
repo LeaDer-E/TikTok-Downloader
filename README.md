@@ -83,7 +83,8 @@ python3 TDw.py
     ```
     Enter the range (e.g., 5-7):
     ```
-
+    * **Note:** When choosing to download videos using a specific range, the script may take some time to count the total number of videos in the channel. The time required depends on the number of videos available, and for large channels with over 2000 videos, it may take up to 15 minutes.
+    
 - **Quality Selection:**  
   Choose the desired quality from the menu. Options include:
   ```
