@@ -116,7 +116,8 @@ python3 TDw.py
 
 - **Mirroring Option:**  
   Decide whether you want a mirrored version of the video(s).
-
+  * **Note:** the time required for the mirroring process depends on the capabilities of the user's hardware, including the processor and graphics card. Video processing involves complex calculations, and lower-end systems may experience longer processing times.
+    
 - **Universal Exit:**  
   At every prompt, type **q** to exit the program immediately.
 
